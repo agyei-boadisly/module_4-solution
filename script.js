@@ -18,7 +18,7 @@ var speakWord = "Good Bye";
 // See Lecture 52, part 2
 (function(){
 
-var names = ["Christiana", "Sylvester", "Harriet", "Sam", "Janet", "Johnson", "Jahmiel", "John", "James"];
+var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
     for(var i=0; i<names.length; i++){
       var firstLetter = names[i].charAt(0);
         if(firstLetter.toLowerCase() == 'j')
